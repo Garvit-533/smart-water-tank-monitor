@@ -7,8 +7,8 @@
 #include <ESP8266WebServer.h>
 
 // WiFi credentials
-const char* ssid = "";
-const char* password = "";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // Static IP configuration
 IPAddress staticIP(192, 168, 1, 102);
